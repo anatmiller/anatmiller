@@ -20,7 +20,7 @@ and have a strong passion for assisting others in grasping complex software conc
 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anatmiller)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://yaron-galperin.medium.com)
+
 
 <!--
 **anatmiller/anatmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
