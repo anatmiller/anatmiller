@@ -6,11 +6,12 @@ My name is Anat Miller,
 
 I'm a passionate Senior Engineer interested in Software development. 
 
-I enjoy creating things and have a strong passion for assisting others in grasping complex software concepts and expanding their knowledge.
+I enjoy creating things and building systems like lego from building blocks
+and have a strong passion for assisting others in grasping complex software concepts and expanding their knowledge, I love technology and I am updated with all of the newest trends.
 
 
 💬 Ask me about: 
-     Python, CPP, System design in very high-scale and high throughput,           
+     Python, CPP, System design in very high-scale.         
 
 ⚡ Fun fact: Python's name isn’t derived from the snake, but from the British comedy series "Monty Python’s Flying Circus"! Guido van Rossum, Python's creator, chose the name because he was a fan of the show and wanted the language to be fun to use.
 
