@@ -2,6 +2,14 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
+
+![](https://komarev.com/ghpvc/?username=anatmiller)
+
+![](https://komarev.com/ghpvc/?username=anatmiller&color=green)
+
+![](https://komarev.com/ghpvc/?username=anatmiller&style=flat-square)
+
+
 My name is Anat Miller,
 
 I'm a passionate about Software development. 
