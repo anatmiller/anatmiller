@@ -14,12 +14,16 @@ I aspire to build innovation-driven ideas. I am passionate about contributing an
 I enjoy creating things and building systems like lego from building blocks
 and have a strong passion for assisting others in grasping complex software concepts and expanding their knowledge, I love technology and I am updated with all of the newest trends.
 
+with a constant itch to explore new technologies 💻 and tackle challenging problems. Solving complex problems with elegant code brings me immense 
+satisfaction.
+I'm a firm believer in knowledge sharing and love helping others unlock the power of code or system design.  My curiosity extends beyond the surface, and I'm always eager to understand how things work under the hood 
 
 💬 Ask me about: 
-     Python, CPP, System design in very high-scale.         
+     Python, CPP, System design in very high-scale.
 
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/SamuvelRaja/SamuvelRaja/main/techstack.gif" width="360px"/>
+  
 
 ⚡ Fun fact: Python's name isn’t derived from the snake, but from the British comedy series "Monty Python’s Flying Circus"! Guido van Rossum, Python's creator, chose the name because he was a fan of the show and wanted the language to be fun to use.
 
