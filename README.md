@@ -1,39 +1,29 @@
 # Hello and Welcome to my GitHub Profile 👋
 
-![](https://komarev.com/ghpvc/?username=anatmiller&color=green&style=flat-square)
+![][greenBadge]
+
+👋 Hi, I'm Anat Miller! 
 
 
-My name is Anat Miller,
+👨🏻‍💻 I'm a highly skilled software engineer with over 15 years of experience in software development. I have a deep understanding of C++ and Python and have worked on a variety of projects ranging from system design to software development. I have a passion for building innovative solutions and I love tackling challenging problems with elegant clean code. 
 
-I'm a passionate about Software development. 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/SamuvelRaja/SamuvelRaja/main/techstack.gif" width="360px"/>
 
-I aspire to build innovation-driven ideas. I am passionate about contributing and making a sagnifcant impact by utilizing my expertise.
 
-I enjoy creating things and building systems like lego from building blocks
+💡 I have a strong background in system design and have worked on high-scale systems that require a deep understanding of how software works under the hood. I enjoy sharing my knowledge with others and helping them unlock the power of code and system design. 
 
-and have a strong passion for assisting others in grasping complex software concepts and expanding their knowledge, I love technology and I am updated with 
+🚀 I'm always eager to learn new technologies and explore new ways of solving complex problems. I'm constantly updating my skills and staying up-to-date with the latest trends in software development. 
 
-all of the newest trends.
+🌟 I'm a firm believer in knowledge sharing and love helping others grasp complex software concepts and expand their knowledge. I enjoy building things and creating systems like Lego from building blocks. 
 
-with a constant itch to explore new technologies 💻 and tackle challenging problems. Solving complex problems with elegant code brings me immense 
-
-satisfaction.
-
-I'm a firm believer in knowledge sharing and love helping others unlock the power of code or system design.  My curiosity extends beyond the surface, and 
-
-I'm always eager to understand how things work under the hood 
 
 💬 Ask me about: 
      Python, CPP, System design in very high-scale.
      I will be happy to help and tech-it-forward 
 
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/anatmiller) to learn more about my work and projects. I'm always happy to help and tech-it-forward! 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/SamuvelRaja/SamuvelRaja/main/techstack.gif" width="360px"/>
-  
-
-⚡ Fun fact: Python's name isn’t derived from the snake, but from the British comedy series "Monty Python’s Flying Circus"! Guido van Rossum, Python's creator, chose the name because he was a fan of the show and wanted the language to be fun to use.
-
-
+👾 Fun fact: Python's name isn’t derived from the snake, but from the British comedy series "Monty Python’s Flying Circus"! Guido van Rossum, Python's creator, chose the name because he was a fan of the show and wanted the language to be fun to use. 
 
 📫 How to reach me:
 
@@ -54,3 +44,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[greenBadge]: https://komarev.com/ghpvc/?username=anatmiller&color=green&style=flat-square
