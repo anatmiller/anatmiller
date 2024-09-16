@@ -36,15 +36,16 @@
 - I enjoy building things and creating systems like Lego from building blocks.
 
 ### 💬 Ask Me About
-- **Python**, **C/C++**,**SaaS**,**Backend delvopment**, **System Design** in very high-scale.
+- ***Python***, ***C/C++***,***SaaS***,***Backend delvopment***, ***System Design*** in very high-scale.
 - I will be happy to help and tech-it-forward.
 
 ### 🔗 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/anatmiller">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
 ### 👾 Fun Fact
 - Python's name isn’t derived from the snake, but from the British comedy series "Monty Python’s Flying Circus"! Guido van Rossum, Python's creator, chose the name because he was a fan of the show and wanted the language to be fun to use.
 
