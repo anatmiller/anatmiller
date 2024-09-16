@@ -1,5 +1,9 @@
 # Hello and Welcome to my GitHub Profile 👋
 
+p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello and Welcome to my GitHub Profile 👋, I am Anat I am a passionate Senior software engineer " src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
 ![][greenBadge]
 
 👋 Hi, I'm Anat Miller! 
@@ -10,11 +14,15 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SamuvelRaja/SamuvelRaja/main/techstack.gif" width="360px"/>
 
 
-💡 I have a strong background in system design and have worked on high-scale systems that require a deep understanding of how software works under the hood. I enjoy sharing my knowledge with others and helping them unlock the power of code and system design. 
+💼  I have a strong background in system design and have worked on high-scale systems that require a deep understanding of how software works under the hood.
+     I enjoy sharing my knowledge with others and helping them unlock the power of code and system design. 
 
-🚀 I'm always eager to learn new technologies and explore new ways of solving complex problems. I'm constantly updating my skills and staying up-to-date with the latest trends in software development. 
+🚀 I'm always eager to learn new technologies and explore new ways of solving complex problems. 
+    I'm constantly updating my skills and staying up-to-date with the latest trends in software development. 
 
-🌟 I'm a firm believer in knowledge sharing and love helping others grasp complex software concepts and expand their knowledge. I enjoy building things and creating systems like Lego from building blocks. 
+🌟 I'm a firm believer in knowledge sharing and love helping others grasp complex software concepts 
+   and expand their knowledge. 
+   I enjoy building things and creating systems like Lego from building blocks. 
 
 
 💬 Ask me about: 
