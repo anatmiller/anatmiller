@@ -38,6 +38,8 @@
 ### 💬 Ask Me About
 - ***Python***, ***C/C++***,***SaaS***,***Backend delvopment***, ***System Design*** in very high-scale.
 - I will be happy to help and tech-it-forward.
+ - And give mentoring for fresh devlopers.
+✉️ You can contact me at anatmiller@gmail.com
 
 ### 🔗 Connect with Me
 <p align="left">
