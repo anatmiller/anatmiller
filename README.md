@@ -38,15 +38,11 @@ I’m happy to help others by sharing my experience and mentoring new developers
 - Music and blogging are two passions that keep me inspired and engaged.  
 - Here's an inspiring video I enjoy: [YouTube - TEDx Talk](https://www.youtube.com/watch?v=Dze8ndWToFE)
 
-### 🌍 Explore My Favorite Cities  
-<p align="center">  
-  <iframe width="600" height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3353.377456789!2d34.781768!3d32.085299!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d4b76e6b6b6b6%3A0x6b6b6b6b6b6b6b6b6b!2sTel%20Aviv!5e0!3m2!1sen!2sil!4v1633021234567!5m2!1sen!2sil" frameborder="0" style="border:0;" allowfullscreen aria-hidden="false" tabindex="0"></iframe>  
-</p>
+### 🌍 Explore My Favorite Cities
+[https://www.youtube.com/watch?v=Dze8ndWToFE]
 
-<p align="center">  
-  <iframe width="600" height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3353.377456789!2d12.496365!3d41.902783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d4b76e6b6b6b6%3A0x6b6b6b6b6b6b6b6b6b!2sRome!5e0!3m2!1sen!2sit!4v1633021234567!5m2!1sen!2sit" frameborder="0" style="border:0;" allowfullscreen aria-hidden="false" tabindex="0"></iframe>  
-</p>
-
+[https://www.youtube.com/shorts/WYKiftP27lM]
+  
 ### 🔗 Connect with Me  
 - [LinkedIn](#)  
 - [Twitter](#)  
