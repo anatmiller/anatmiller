@@ -1,58 +1,33 @@
+Hello and Welcome to My GitHub Profile 👋
+<p align="center"> <a href="https://anuraghazra.github.io"> <img width="10%" alt="Hello and Welcome to my GitHub Profile 👋, I am Anat, a passionate Senior Software Engineer" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" /> </a> </p> <br /> <p align="center"> <img src="https://komarev.com/ghpvc/?username=anatmiller&color=brightgreen" alt="Profile Views Counter" /> </p>
+Hi, I’m Anat Miller!
+👨🏻‍💻 About Me
+I’m a seasoned Senior Software Engineer with over 15 years of experience, driven by passion and innovation. Known for my adaptability, I tackle challenges head-on and always strive for open communication and perseverance in overcoming obstacles. My growth mindset fuels my continuous development, and as the owner of my last end-to-end project, I take full accountability for every solution I build.
 
-# Hello and Welcome to my GitHub Profile 👋
+With deep expertise in C++ and Python, I’ve worked across various domains, from system design to software development, always focusing on clean, efficient code that solves complex problems elegantly.
 
-<p align="center">
-  <a href="https://anuraghazra.github.io">
-    <img width="10%" alt="Hello and Welcome to my GitHub Profile 👋, I am Anat I am a passionate Senior software engineer" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
-  </a>
-</p>
+💼 Professional Background
+I have extensive experience in system design, contributing to large-scale, high-performance systems. I enjoy sharing my knowledge and helping others unlock their full potential in coding and system architecture. Mentorship is a core part of my journey.
 
-<br />
+🚀 Continuous Learning
+I thrive on learning new technologies and enjoy exploring innovative approaches to solve complex problems. Staying up-to-date with the latest industry trends is a top priority for me.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anatmiller&color=brightgreen" alt="Profile Views Counter">
-</p>
-
-
-## Hi, I'm Anat Miller!
-
-
-
-## 👨🏻‍💻 About Me
-- I'm a highly skilled software engineer with over 15 years of experience in software development.
-- I have a deep understanding of **C++** and **Python** and have worked on a variety of projects ranging from system design to software development.
-- I have a passion for building innovative solutions and love tackling challenging problems with elegant, clean code.
-
-### 💼 Professional Background
-- I have a strong background in system design and have worked on high-scale systems that require a deep understanding of how software works under the hood.
-- I enjoy sharing my knowledge with others and helping them unlock the power of code and system design.
-
-### 🚀 Continuous Learning
-- I'm always eager to learn new technologies and explore new ways of solving complex problems.
-- I'm constantly updating my skills and staying up-to-date with the latest trends in software development.
-
-### 🌟 Knowledge Sharing
-- I'm a firm believer in knowledge sharing and love helping others grasp complex software concepts and expand their knowledge.
-- I enjoy building things and creating systems like Lego from building blocks.
-
-### 💬 Ask Me About
-- ***Python***, ***C/C++***,***SaaS***,***Backend delvopment***, ***System Design*** in very high-scale.
-- I will be happy to help and tech-it-forward.
- - And give mentoring for fresh devlopers.
-✉️ You can contact me at anatmiller@gmail.com
-
-### 🔗 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/anatmiller">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-### 👾 Fun Fact
-- Python's name isn’t derived from the snake, but from the British comedy series "Monty Python’s Flying Circus"! Guido van Rossum, Python's creator, chose the name because he was a fan of the show and wanted the language to be fun to use.
-
-
-<!--
-**anatmiller/anatmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-26.9 180
--->
+🌟 Strengths
+System Design: Building solutions piece by piece, like assembling Lego blocks, understanding each component and its interaction.
+Simplifying Complexity: I excel at breaking down complex software concepts to make them accessible and easy to grasp.
+Data-Driven Decisions: I rely on data to inform my decisions, ensuring precision in everything I build.
+Creative Problem-Solving: I love bringing creativity, innovation, and out-of-the-box thinking to every challenge I face.
+💬 Ask Me About
+Python, C++, SaaS, Backend Development, and System Design at scale.
+I’m happy to help others by sharing my experience and mentoring new developers.
+✉️ Feel free to reach out: anatmiller@gmail.com
+👾 Fun Facts
+I’m a lifelong learner, fueled by curiosity.
+I enjoy listening to inspiring podcasts like Tony Robbins and TED Talks on a wide range of subjects (though I haven’t walked on coals yet!).
+Music and blogging are two passions that keep me inspired and engaged.
+🌍 Explore My Favorite Cities
+<p align="center"> <iframe width="600" height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3353.377456789!2d34.781768!3d32.085299!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d4b76e6b6b6b6%3A0x6b6b6b6b6b6b6b6b6b!2sTel%20Aviv!5e0!3m2!1sen!2sil!4v1633021234567!5m2!1sen!2sil" frameborder="0" style="border:0;" allowfullscreen aria-hidden="false" tabindex="0"></iframe> </p> <p align="center"> <iframe width="600" height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3353.377456789!2d12.496365!3d41.902783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d4b76e6b6b6b6%3A0x6b6b6b6b6b6b6b6b!2sRome!5e0!3m2!1sen!2sit!4v1633021234567!5m2!1sen!2sit" frameborder="0" style="border:0;" allowfullscreen aria-hidden="false" tabindex="0"></iframe> </p>
+🔗 Connect with Me
+LinkedIn
+Twitter
+GitHub
