@@ -9,7 +9,29 @@
   <img src="https://komarev.com/ghpvc/?username=anatmiller&color=brightgreen" alt="Profile Views Counter" />  
 </p>
 
-## Hi, I’m Anat Miller!  
+<h1 align="center">Hi there, I'm Mehdi Hadeli 👋</h1>
+
+I'm a software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using Python, CPP on top of cutting-edge technologies. My interests include microservices, system design, software architecture,. I love learning, sharing, and facing challenges. I am an open-source contributor.
+
+
+### 🔗 Connect with Me  
+<p align="center"> 
+  <a href="https://www.youtube.com/mehdihadeli" alt="mehdi hadeli's youtube">
+   <img src="https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
+ </a>
+ <a href="https://github.com/anatmiller" alt="Anat Miller's github">
+   <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
+ </a>
+ <a href="https://www.linkedin.com/in/anatmiller" alt="Anat Miller's linkedin">
+   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mehdihadeli" />
+ </a>
+ <a>
+   <img src="https://komarev.com/ghpvc/?username=mehdihadeli&color=ff69b4&style=for-the-badge" />
+ </a>
+</p>
+
+
+
 ### 👨🏻‍💻 About Me  
 I’m a seasoned Senior Software Engineer with over 15 years of experience, driven by passion and innovation. Known for my **adaptability**, I tackle challenges head-on and always strive for **open communication** and **perseverance** in overcoming obstacles. My **growth mindset** fuels my continuous development, and as the owner of my last end-to-end project, I take full accountability for every solution I build.
 
@@ -34,16 +56,8 @@ I’m happy to help others by sharing my experience and mentoring new developers
 
 ### 👾 Fun Facts  
 - I’m a lifelong learner, fueled by curiosity.  
-- I enjoy listening to inspiring podcasts like **Tony Robbins** and **TED Talks** on a wide range of subjects (though I haven’t walked on coals yet!).  
+- I enjoy listening to inspiring podcasts like * **TED Talks** on a wide range of subjects (though I haven’t walked on coals yet!).  
 - Music and blogging are two passions that keep me inspired and engaged.  
 - Here's an inspiring video I enjoy: [YouTube - TEDx Talk](https://www.youtube.com/watch?v=Dze8ndWToFE)
-
-### 🌍 Explore My Favorite Cities
-[https://www.youtube.com/watch?v=Dze8ndWToFE]
-
-[https://www.youtube.com/shorts/WYKiftP27lM]
   
-### 🔗 Connect with Me  
-- [LinkedIn](#)  
-- [Twitter](#)  
-- [GitHub](#)
+
