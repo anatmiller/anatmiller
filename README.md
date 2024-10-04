@@ -1,13 +1,4 @@
-# Hello and Welcome to My GitHub Profile 👋  
-<p align="center">  
-  <a href="https://anuraghazra.github.io">  
-    <img width="10%" alt="Hello and Welcome to my GitHub Profile 👋, I am Anat, a passionate Senior Software Engineer" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />  
-  </a>  
-</p>  
-<br />  
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=anatmiller&color=brightgreen" alt="Profile Views Counter" />  
-</p>
+![](assets/header.png)
 
 <h1 align="center">Hi there, I'm Anat Miller👋</h1>
 
@@ -23,10 +14,10 @@ I'm a software engineer, specializing in backend development and distributed sys
    <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
  </a>
  <a href="https://www.linkedin.com/in/anatmiller" alt="Anat Miller's linkedin">
-   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mehdihadeli" />
+   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/anatmiller" />
  </a>
  <a>
-   <img src="https://komarev.com/ghpvc/?username=mehdihadeli&color=ff69b4&style=for-the-badge" />
+   <img src="https://komarev.com/ghpvc/?username=anatmiller&color=ff69b4&style=for-the-badge" />
  </a>
 </p>
 
