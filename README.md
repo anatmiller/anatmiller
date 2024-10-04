@@ -28,7 +28,7 @@ I'm a senior software engineer, specializing in backend development and distribu
             height="54" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" alt="cpp" width="54"
+        <img src="cpp.svg" alt="cpp" width="54"
             height="54" style="vertical-align:top; margin:4px;">
     </a>
     <a href="https://go.dev/">
