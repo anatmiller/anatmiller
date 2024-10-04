@@ -20,6 +20,64 @@ I'm a senior software engineer, specializing in backend development and distribu
 </p>
 
 
+<h2 align="center">🛠 Technologies & Skils</h2>
+
+<p align="center">
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="54"
+            height="54" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" alt="cpp" width="54"
+            height="54" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="https://go.dev/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="golang"
+            width="54" height="54" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="https://dotnet.microsoft.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="54"
+            height="54" alt="dotnet" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+            width="54" height="54" alt="postgres" style="vertical-align:top; margin:4px">
+    </a>
+     <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"
+            width="54" height="54" alt="postgres" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://www.mongodb.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="54"
+            height="54" alt="mongodb" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="54"
+            height="54" alt="kubernetes" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="https://hub.docker.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="54"
+            height="54" alt="docker" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://azure.microsoft.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="54" height="54"
+            alt="azure" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="">
+        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="54" height="54" alt="javascript"
+            style="vertical-align:top; margin:4px">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"
+            width="64" height="64" alt="kafka" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="54"
+            height="54" alt="AWS" style="vertical-align:top; margin:4px">
+    </a>
+</p>
+
+<br/>
 
 ### 👨🏻‍💻 About Me  
 I’m a seasoned Senior Software Engineer with over 15 years of experience, driven by passion and innovation. Known for my **adaptability**, I tackle challenges head-on and always strive for **open communication** and **perseverance** in overcoming obstacles. My **growth mindset** fuels my continuous development, and as the owner of my last end-to-end project, I take full accountability for every solution I build.
