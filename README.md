@@ -1,4 +1,4 @@
-![](assets/header.png)
+![](header.png)
 
 <h1 align="center">Hi there, I'm Anat Miller👋</h1>
 
