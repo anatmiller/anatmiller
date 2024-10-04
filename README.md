@@ -4,8 +4,6 @@
 
 I'm a software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using Python, CPP on top of cutting-edge technologies. My interests include microservices, system design, software architecture,. I love learning, sharing, and facing challenges. I am an open-source contributor.
 
-
-### 🔗 Connect with Me  
 <p align="center"> 
   <a href="https://www.youtube.com/mehdihadeli" alt="mehdi hadeli's youtube">
    <img src="https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
