@@ -100,6 +100,7 @@ I thrive on learning new technologies and enjoy exploring innovative approaches 
 - **Python**, **C++**, **SaaS**, **Backend Development**, and **System Design** at scale.  
 I’m happy to help others by sharing my experience and mentoring new developers.  
 ✉️ Feel free to reach out: [anatmiller@gmail.com](mailto:anatmiller@gmail.com)
+Facebook: [https://www.facebook.com/anat.miller]
 
 ### 👾 Fun Facts  
 - I’m a lifelong learner, fueled by curiosity.  
