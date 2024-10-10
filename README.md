@@ -15,7 +15,7 @@ I’m passionate about data and love exploring new AI technologies 💫
    <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/anatmiller" />
  </a>
   <a href="https://www.facebook.com/in/anatmiller" alt="Anat Miller's facebbok">
-   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=facebook&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/anatmiller" />
+   <img src="https://img.shields.io/badge/%20-Facebook-%230A66C2?logo=facebook&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/anatmiller" />
  </a>
  <a href="https://www.facebook.com/anat.miller/" alt="Anat Miller's facebook">
    <img src="https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=facebook&logoColor=white&style=for-the-badge" />
