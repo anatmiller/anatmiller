@@ -103,7 +103,7 @@ I thrive on learning new technologies and enjoy exploring innovative approaches 
 - **Creative Problem-Solving**: I love bringing **creativity**, **innovation**, and **out-of-the-box thinking** to every challenge I face.
 
 ### 💬 Ask Me About  
-- **Python**, **C++**, **SaaS**, **Backend Development**, and **System Design** at scale.  
+- **Python**, **C/C++**,**Real-Time/Embedded**, **SaaS**, **Backend Development**, and **System Design** at scale.  
 I’m happy to help others by sharing my experience and mentoring new developers.  
 ✉️ Feel free to reach out: [anatmiller@gmail.com](mailto:anatmiller@gmail.com)
 Linkedin: [https://www.linkedin.com/in/anatmiller/]
