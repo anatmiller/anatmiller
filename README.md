@@ -106,12 +106,12 @@ I thrive on learning new technologies and enjoy exploring innovative approaches 
 - **Python**, **C++**, **SaaS**, **Backend Development**, and **System Design** at scale.  
 I’m happy to help others by sharing my experience and mentoring new developers.  
 ✉️ Feel free to reach out: [anatmiller@gmail.com](mailto:anatmiller@gmail.com)
-Facebook: [https://www.facebook.com/anat.miller]
+Linkedin: [https://www.linkedin.com/in/anatmiller/]
 
 ### 👾 Fun Facts  
 - I’m a lifelong learner, fueled by curiosity.  
 - I enjoy listening to inspiring podcasts like * **TED Talks** on a wide range of subjects (though I haven’t walked on coals yet!).  
 - Music and blogging are two passions that keep me inspired and engaged.  
-- Here's an inspiring video I enjoy: [YouTube - TEDx Talk](https://www.youtube.com/watch?v=Dze8ndWToFE)
+- Here is my Youtube Channel Enjoy (https://www.youtube.com/channel/UCsz1onFsjzMZ_L9sWXU6HRg)
   
 
