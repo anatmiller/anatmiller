@@ -5,7 +5,7 @@
 I'm a senior software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using Python, CPP on top of cutting-edge technologies. My interests include microservices, system design, software architecture,. I love learning, sharing, and facing challenges. I am an open-source contributor.
 
 I love exploring new AI technologies 💫
- 🎥Beyond coding, I share professional insights and tutorials on my [YouTube Channel](https://www.youtube.com/@AnatMiller?sub_confirmation=1&utm_source=github).
+ 🎥Beyond coding, I share professional insights and tutorials on my [YouTube Channel](https://www.youtube.com/channel/UCsz1onFsjzMZ_L9sWXU6HRg?s&utm_source=github).
 
 <p align="center"> 
  <a href="https://github.com/anatmiller" alt="Anat Miller's github">
@@ -14,11 +14,8 @@ I love exploring new AI technologies 💫
  <a href="https://www.linkedin.com/in/anatmiller" alt="Anat Miller's linkedin">
    <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/anatmiller" />
  </a>
-  <a href="https://www.facebook.com/in/anatmiller" alt="Anat Miller's facebbok">
-   <img src="https://img.shields.io/badge/%20-Facebook-%230A66C2?logo=facebook&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/anatmiller" />
- </a>
- <a href="https://www.facebook.com/anat.miller/" alt="Anat Miller's facebook">
-   <img src="https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=facebook&logoColor=white&style=for-the-badge" />
+ <a href="https://www.facebook.com/anat.miller/" alt="Anat Miller's youtube">
+   <img src="https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=facebook&logoColor=white&style=for-the-badge&https://www.youtube.com/channel/UCsz1onFsjzMZ_L9sWXU6HRg?s&utm_source=github" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=anatmiller&color=ff69b4&style=for-the-badge" />
