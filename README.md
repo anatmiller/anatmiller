@@ -14,7 +14,7 @@ I love exploring new AI technologies 💫
  <a href="https://www.linkedin.com/in/anatmiller" alt="Anat Miller's linkedin">
    <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/anatmiller" />
  </a>
- <a href="https://www.facebook.com/anat.miller/" alt="Anat Miller's youtube">
+ <a href="https://www.youtube.com/channel/UCsz1onFsjzMZ_L9sWXU6HRg?s&utm_source=github" alt="Anat Miller's youtube">
    <img src="https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=facebook&logoColor=white&style=for-the-badge&https://www.youtube.com/channel/UCsz1onFsjzMZ_L9sWXU6HRg?s&utm_source=github" />
  </a>
  <a>
