@@ -5,8 +5,7 @@
 I'm a senior software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using Python, CPP on top of cutting-edge technologies. My interests include microservices, system design, software architecture,. I love learning, sharing, and facing challenges. I am an open-source contributor.
 
 I love exploring new AI technologies 💫
-Beyond coding, I share professional insights and tutorials on my [YouTube Channel](https://www.youtube.com/@AnatMiller?sub_confirmation=1&utm_source=github).
- 🎥 צפו בערוץ היוטיוב שלי [![YouTube Channel](https://img.shields.io/badge/YouTube-Anat_Miller-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCszvS5VwT-g9n_t1_G9_Ntw?](https://www.youtube.com/channel/UCsz1onFsjzMZ_L9sWXU6HRg)sub_confirmation=1&utm_source=github) *משתפת תובנות מהשטח על הנדסת תוכנה, AI Vibe Coding ומערכות מבוזרות.
+ 🎥Beyond coding, I share professional insights and tutorials on my [YouTube Channel](https://www.youtube.com/@AnatMiller?sub_confirmation=1&utm_source=github).
 
 <p align="center"> 
  <a href="https://github.com/anatmiller" alt="Anat Miller's github">
