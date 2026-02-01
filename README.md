@@ -109,6 +109,6 @@ Linkedin: [https://www.linkedin.com/in/anatmiller/]
 - I’m a lifelong learner, fueled by curiosity.  
 - I enjoy listening to inspiring podcasts like * **TED Talks** on a wide range of subjects (though I haven’t walked on coals yet!).  
 - Music and blogging are two passions that keep me inspired and engaged.  
-- Here is my Youtube Channel Enjoy (https://www.youtube.com/channel/UCsz1onFsjzMZ_L9sWXU6HRg)
+
   
 
