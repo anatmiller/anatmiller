@@ -1,4 +1,8 @@
-![](header.png)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,100:00599C&height=140&section=header" alt="header"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=4000&pause=600&color=00599C&center=true&width=650&lines=Hello%2C+I'm+Anat+Miller;Senior+C%2B%2B+%2F+Python+Engineer;Low-level+%C2%B7+Multithreaded+%C2%B7+Linux;15%2B+years+building+high-performance+systems" alt="Typing SVG" />
+</div>
 
 <h1 align="center">Hi there, I'm Anat Miller👋</h1>
 
