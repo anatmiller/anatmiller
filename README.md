@@ -4,10 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=4000&pause=600&color=00599C&center=true&width=650&lines=Hello%2C+I'm+Anat+Miller;Senior+C%2B%2B+%2F+Python+Engineer;Low-level+%C2%B7+Multithreaded+%C2%B7+Linux;15%2B+years+building+high-performance+systems" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hi there, I'm Anat Miller👋</h1>
 
 I love exploring new AI technologies 💫
- 🎥Beyond coding, I share professional insights and tutorials on my [YouTube Channel](https://www.youtube.com/channel/UCsz1onFsjzMZ_L9sWXU6HRg?s&utm_source=github).
+🎥Beyond coding, I share professional insights and tutorials on my [YouTube Channel](https://www.youtube.com/channel/UCsz1onFsjzMZ_L9sWXU6HRg?s&utm_source=github).
 
 <p align="center"> 
  <a href="https://github.com/anatmiller" alt="Anat Miller's github">
