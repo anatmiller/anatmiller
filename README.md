@@ -17,9 +17,6 @@
  </a>
 </p>
 
-
-<h2 align="center">🛠 Technologies & Skils</h2>
-
 <p align="center">
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="54"
